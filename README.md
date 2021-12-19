@@ -1,5 +1,5 @@
 # Hack The Box
-"Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field." - 
+"Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousand of people in the security field." - 
 ### https://www.hackthebox.com/
 
 ## What is Hack the Box ?
